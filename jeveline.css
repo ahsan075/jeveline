@@ -13,7 +13,7 @@ body{
 
 .logo {
     display: block;
-    background: url('../img/Jevelin_logo_light.png') no-repeat;
+    background: url('Jevelin_logo_light.png') no-repeat;
     height: 35px;
     width: 130px;
     margin-left: 35px;
@@ -110,7 +110,7 @@ nav ul{
         color: gray;
     }
     .scrolling-active .logo{
-        background: url('../img/Jevelin_logo_dark.png') no-repeat;
+        background: url('Jevelin_logo_dark.png') no-repeat;
     }
 
            /* Home section */
